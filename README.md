@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![card](https://github-readme-stats.vercel.app/api?username=Lukaspf17&theme=default)](https://github.com/Lukaspf17/)
 
 <!--
 **lukaspf17/Lukaspf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
